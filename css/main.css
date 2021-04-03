@@ -8,6 +8,6 @@ html {
   box-sizing: inherit;
 }
 
-figure {
-  padding: 0;
+img {
+  width: 100%;
 }
